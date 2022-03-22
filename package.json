@@ -1,0 +1,43 @@
+{
+  "name": "fork-on-github",
+  "version": "1.0.0",
+  "description": "A Simple JavaScript Package to add Fork me on Github Ribbon on any Website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meinhoonharsh/Fork-on-Github.git"
+  },
+  "keywords": [
+    "fork",
+    "on",
+    "github",
+    "github",
+    "fork",
+    "ribbon",
+    "ribbon",
+    "github",
+    "github",
+    "corner",
+    "ribbon",
+    "ribbon",
+    "github",
+    "corner",
+    "fork",
+    "me",
+    "on",
+    "github",
+    "fork",
+    "on",
+    "github",
+    "semikolan"
+  ],
+  "author": "Harsh Vishwakarma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/meinhoonharsh/Fork-on-Github/issues"
+  },
+  "homepage": "https://github.com/meinhoonharsh/Fork-on-Github#readme"
+}
