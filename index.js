@@ -1,4 +1,9 @@
 const forkOnGithub = (config) => {
+  console.log(
+    `%cThanks for using fork-on-github by SemiKolan`,
+    `color: white;font-size:1.4em; font-weight: bold;`
+  );
+
   const defaultConfig = {
     repo: "https://github.com/semikolan-co/semikolan-react",
     backgroundColor: "#999",
