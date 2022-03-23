@@ -1,6 +1,6 @@
 {
   "name": "fork-on-github",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A Simple JavaScript Package to add Fork me on Github Ribbon on any Website",
   "main": "index.js",
   "scripts": {
